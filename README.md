@@ -56,20 +56,7 @@ Cada nodo tiene un **factor de equilibrio** que es la diferencia entre la altura
 
 ## Referencias y más información
 
-- Detalles técnicos y ejemplos: [Programiz - AVL Tree](https://www.programiz.com/dsa/avl-tree)  
-- Explicación con animaciones: [YouTube - AVL Tree traversal](https://www.youtube.com/watch?v=YCLDETFNYKE)  
-- Tutorial y código completo: [HappyCoders - AVL Java](https://www.happycoders.eu/algorithms/avl-tree-java/)
-
-***
-
-Si necesitas, puedo ayudarte a preparar documentación técnica detallada en Markdown para cada método o un tutorial con ejemplos prácticos. ¿Quieres?
-
 [1](https://runestone.academy/ns/books/published/pythoned/Trees/ImplementacionDeUnArbolAVL.html)
 [2](https://translate.google.com/translate?u=https%3A%2F%2Fwww.happycoders.eu%2Falgorithms%2Favl-tree-java%2F&hl=es&sl=en&tl=es&client=srp)
 [3](https://translate.google.com/translate?u=https%3A%2F%2Fwww.datacamp.com%2Ftutorial%2Favl-tree&hl=es&sl=en&tl=es&client=srp)
 [4](https://translate.google.com/translate?u=https%3A%2F%2Fwww.w3schools.com%2Fdsa%2Fdsa_data_avltrees.php&hl=es&sl=en&tl=es&client=srp)
-[5](https://www.youtube.com/watch?v=fksClxq0Z4Q)
-[6](https://translate.google.com/translate?u=https%3A%2F%2Frunestone.academy%2Fns%2Fbooks%2Fpublished%2Fpythonds%2FTrees%2FAVLTreeImplementation.html&hl=es&sl=en&tl=es&client=srp)
-[7](https://translate.google.com/translate?u=https%3A%2F%2Fwww.programiz.com%2Fdsa%2Favl-tree&hl=es&sl=en&tl=es&client=srp)
-[8](https://translate.google.com/translate?u=https%3A%2F%2Fwww.wscubetech.com%2Fresources%2Fdsa%2Favl-tree&hl=es&sl=en&tl=es&client=srp)
-[9](https://translate.google.com/translate?u=https%3A%2F%2Fwww.softwaretestinghelp.com%2Favl-trees-and-heap-data-structure-in-cpp%2F&hl=es&sl=en&tl=es&client=srp)
